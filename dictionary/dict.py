@@ -192,7 +192,7 @@ newScore = int(score)  # Converting string input to integer
  newScore
 85
 
-  newScore / 2  # Now we can perform arithmetic operations  
+newScore / 2  # Now we can perform arithmetic operations  
 42.5
 
 
