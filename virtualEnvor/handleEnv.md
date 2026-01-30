@@ -1,5 +1,5 @@
 
-# 🐍 Python Virtual Environment & pip (Hinglish Notes)
+# 🐍 Python Virtual Environment & pip 
 
 ## 1️⃣ macOS me `pip` / `pip3` error kyun aata hai?
 
